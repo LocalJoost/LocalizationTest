@@ -1,0 +1,2 @@
+# LocalizationTest
+Unity localization
